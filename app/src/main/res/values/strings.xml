@@ -6,5 +6,6 @@
     <string name="about">About</string>
     <string name="two_player">Two Players</string>
     <string name="achievements">Achievements</string>
-    <string name="rules">Rules</string>
+    <string name="rules_title">Rules</string>
+    <string name="scoring">Scoring</string>
 </resources>
